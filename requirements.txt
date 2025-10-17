@@ -1,0 +1,4 @@
+nycflights13
+pandas
+sqlite3
+pathlib
