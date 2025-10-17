@@ -1,4 +1,5 @@
 nycflights13
-pandas
-sqlite3
-pathlib
+pandas==2.3.*
+SQLAlchemy>=2.0
+jupysql
+ipython-sql
